@@ -1,1 +1,1 @@
-# SQL-Practice
+# IMDb Project SQL
